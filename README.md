@@ -7,6 +7,7 @@ I like to see the full picture and I'm not afraid to try new things, which leads
 While I wouldn't consider myself as a full-stack developer, this set of skills let me to be a glue between teams, let me easier create company processes, design project architectures and improve developer tools.
 
 ### 📫 How to reach me
+- [🕴️ LinkedIn](https://www.linkedin.com/in/igloczek/)
 - [🐦 Twitter](https://twitter.com/igloczek)
 - [📘 Facebook](https://www.facebook.com/iglodottech)
 - [🍆OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
