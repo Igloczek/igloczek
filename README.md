@@ -6,14 +6,11 @@ I like to see the full picture and I'm not afraid to try new things, which leads
 
 While I wouldn't consider myself as a full-stack developer, such set of skills let me to act like a glue between departments, and give knowledge required to design company processes, project architectures and developer tools.
 
-📫 How to reach me:
+### 📫 How to reach me
 - [🐦 Twitter](https://twitter.com/igloczek)
 - [📘 Facebook](https://www.facebook.com/iglodottech)
 - [🌐 iglo.tech](iglo.tech)
-
-### Stats
-![](https://github-readme-stats.vercel.app/api?username=igloczek&hide=stars&show_icons=true&include_all_commits=true&theme=shades-of-purple)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=igloczek&layout=compact&theme=shades-of-purple)
+- [OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Bio
 I started doing web when I was 15yo, customizing and converting some PSD to HTML + CSS for local business 🤓
@@ -23,3 +20,8 @@ In 2012 did my first serious project, [SCADA](https://en.wikipedia.org/wiki/SCAD
 After giving college a quick, one year, try (or maybe the opposite 😅), I stared working full time on various Ruby on Rails based projects, mostly startups and ecommerce, which learn me to write a lot of code in short time, once did 12k LoC in a week 🔥.
 
 Since 2014 I'm working at [SNOW.DOG](https://snow.dog) an ecommerce specialized software house, started as a second frontend developer in company that have about 20 people, currently I'm a Head of Frontend with 14 people in my team and we have 70 people total.
+
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=igloczek&hide=stars&show_icons=true&include_all_commits=true&theme=shades-of-purple)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=igloczek&layout=compact&theme=shades-of-purple)
+
