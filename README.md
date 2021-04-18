@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer, specialized in frontend. Open source fan. Procrastinator.
+I'm a web developer, specialized in frontend. Open source fan. PhD in Memology. Procrastinator.
 
 I like to see the full picture and I'm not afraid to try new things, which leads me to the point where I can handle a whole project on my own, from idea, through  design, frontend and backend code, automation pipelines, hosting, to analytics tools.
 
