@@ -24,4 +24,4 @@ It looks like I was doing PWA, before it ever exist 😎, because it was a build
 
 After giving college a quick, one year, try (or maybe the opposite 😅), I stared working full time on various Ruby on Rails based project, mostly startups and ecommerce, which learn me to write a lot of code in short time (12k LoC in a week 🔥) and what does it mean to crunch.
 
-Since 2014 I'm working at [SNOW.DOG](https://snow.dog) an ecommerce specialized software house, started as a second frontend developer in company that have about 20 people total, currently I'm a Head of Frontend with 14 people in my team.
+Since 2014 I'm working at [SNOW.DOG](https://snow.dog) an ecommerce specialized software house, started as a second frontend developer in company that have about 20 people, currently I'm a Head of Frontend with 14 people in my team and we have 70 people total.
