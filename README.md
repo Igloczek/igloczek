@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🕸️ I'm a web developer, specialized in frontend. 
+- 🕸️ Web developer, specialized in frontend.
 - 📖 Open source fan. 
 - 🎓 PhD in Memology. 
 - :will-pick-later: Procrastinator.
