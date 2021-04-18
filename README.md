@@ -9,8 +9,8 @@ While I wouldn't consider myself as a full-stack developer, such set of skills l
 ### 📫 How to reach me
 - [🐦 Twitter](https://twitter.com/igloczek)
 - [📘 Facebook](https://www.facebook.com/iglodottech)
-- [🌐 iglo.tech](iglo.tech)
 - [🍆OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [🌐 iglo.tech](iglo.tech)
 
 ### Bio
 I started doing web when I was 15yo, customizing and converting some PSD to HTML + CSS for local business 🤓
