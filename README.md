@@ -7,9 +7,9 @@ I like to see the full picture and I'm not afraid to try new things, which leads
 While I wouldn't consider myself as a full-stack developer, such set of skills let me to act like a glue between departments, and give knowledge required to design company processes, project architectures and developer tools.
 
 📫 How to reach me:
-- 🐦 [Twitter](https://twitter.com/igloczek)
-- 📘 [Facebook](https://www.facebook.com/iglodottech)
-- 🌐 [iglo.tech](iglo.tech)
+- 🐦  [Twitter](https://twitter.com/igloczek)
+- 📘  [Facebook](https://www.facebook.com/iglodottech)
+- 🌐  [iglo.tech](iglo.tech)
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=igloczek&hide=stars&show_icons=true&include_all_commits=true&theme=shades-of-purple)
