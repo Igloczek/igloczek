@@ -12,7 +12,7 @@ While I wouldn't consider myself as a full-stack developer, this set of skills l
 - [🕴️ LinkedIn](https://www.linkedin.com/in/igloczek/)
 - [🐦 Twitter](https://twitter.com/igloczek)
 - [📘 Facebook](https://www.facebook.com/iglodottech)
-- [🍆OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [🍆 OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [🌐 iglo.tech](https://iglo.tech)
 
 ### Bio
