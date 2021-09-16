@@ -22,4 +22,4 @@ In 2012 did my first serious project, [SCADA](https://en.wikipedia.org/wiki/SCAD
 
 After giving college a quick, one year, try (or maybe the opposite 😅), I stared working full time on various Ruby on Rails based projects, mostly startups and ecommerce, which learn me to write a lot of code in short time, once did 12k LoC in a week 🔥.
 
-Since 2014 I'm working at [SNOW.DOG](https://snow.dog) an ecommerce specialized software house, started as a second frontend developer in company that have about 20 people, currently I'm a Head of Frontend with 14 people in my team and 70 people total in company.
+Since 2014 I'm working at [SNOW.DOG](https://snow.dog) an ecommerce specialized software house, started as a second frontend developer in company that have about 20 people, currently I'm a Head of Frontend with 15+ in my team and 70+ total in company.
