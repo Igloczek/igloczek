@@ -13,7 +13,7 @@ While I wouldn't consider myself as a full-stack developer, this set of skills l
 - [🌐 iglo.tech](https://iglo.tech)
 - [🕴️ LinkedIn](https://www.linkedin.com/in/igloczek/)
 - [📘 Facebook](https://www.facebook.com/iglodottech)
-- [🍆 OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [🍆 OnlyFans](https://bit.ly/totally-valid-onlyfans-link-trust-me)
 
 ### Bio
 I started doing web when I was 15yo, customizing and converting some PSD to HTML + CSS for local business 🤓
