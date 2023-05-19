@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif)
 
 - 🕸️ Web developer, specialized in frontend
 - 📖 Open source fan
