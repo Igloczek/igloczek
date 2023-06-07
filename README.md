@@ -10,7 +10,6 @@ While I wouldn't consider myself as a full-stack developer, this set of skills l
 
 ### 📫 How to reach me
 - [🐦 Twitter](https://twitter.com/igloczek)
-- [🌐 iglo.tech](https://iglo.tech)
 - [🕴️ LinkedIn](https://www.linkedin.com/in/igloczek/)
 - [📘 Facebook](https://www.facebook.com/iglodottech)
 - [🍆 OnlyFans](https://bit.ly/totally-valid-onlyfans-link-trust-me)
