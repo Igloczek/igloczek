@@ -42,12 +42,16 @@ I also curated the frontend track of Meet Magento Poland 2018, so yes, I got the
 
 ### 🔨 Currently shipping
 
-- 🧊 **[iglo.tech](https://iglo.tech)**: a self-hosted stack for running a product solo. [iglo.base](https://github.com/iglo-tech/iglo.base) (PocketBase ported to Bun + TypeScript), iglo.email, iglo.monitor, iglo.code
+- 🧊 **[iglo.tech](https://iglo.tech)**: a self-hosted stack for running a product solo. 
+  - [iglo.base](https://github.com/iglo-tech/iglo.base) - PocketBase fork mixed with Convex style code-fire schema approach
+  - [iglo.email](https://github.com/iglo-tech/iglo.email) - Listmonk fork with email automations
+  - [iglo.monitor](https://github.com/iglo-tech/iglo.monitor) - UptimeKuma fork with greatley refactored internals
+  - [iglo.code](https://github.com/iglo-tech/iglo.code) - T3 Code fork with added complex workflows and fixes
 - 💬 **[Comments Tools](https://commentstools.com)** & **[YouTube Comments Downloader](https://youtubecommentsdownloader.com)**: YouTube comment analysis at scale
 - 🏔️ **[Alpine.js Pro](https://alpinejs.pro)**: devtools for Alpine.js, Livewire & friends
 - 🐄 **[Paszomistrz](https://paszomistrz.pl)**: turns milk test reports into feeding plans for dairy herds. Yes, cows. Full-stack means *full* stack.
 - 😬 **[Cringe-o-meter](https://cringe-o-meter.com)**: rates the cringe on your LinkedIn feed. A public service.
-- 🧩 Small useful bits: [astro-electron](https://github.com/Igloczek/astro-electron), [astro-bun-adapter](https://github.com/Igloczek/astro-bun-adapter) and [n8n-nodes-pocketbase-admin](https://github.com/Igloczek/n8n-nodes-pocketbase-admin)
+- 🧩 Small useful bits: [astro-electron](https://github.com/Igloczek/astro-electron), [astro-bun-adapter](https://github.com/Igloczek/astro-bun-adapter)
 
 🔧 Off the keyboard: 3D printing, smart home and reviving old hardware. Naturally, each hobby ends up with its own repo: [klipper-bed-mesh-editor](https://github.com/Igloczek/klipper-bed-mesh-editor), a [better vacuum map card](https://github.com/Igloczek/lovelace-better-xiaomi-vacuum-map-card) for Home Assistant, [ASUS Xonar U1](https://github.com/Igloczek/asus-xonar-u1-windows) sound card support on Windows 11.
 
