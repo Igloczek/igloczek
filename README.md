@@ -43,9 +43,9 @@ I also curated the frontend track of Meet Magento Poland 2018, so yes, I got the
 ### 🔨 Currently shipping
 
 - 🧊 **[iglo.tech](https://iglo.tech)**: a self-hosted stack for running a product solo. 
-  - [iglo.base](https://github.com/iglo-tech/iglo.base) - PocketBase fork mixed with Convex style code-fire schema approach
-  - [iglo.email](https://github.com/iglo-tech/iglo.email) - Listmonk fork with email automations
-  - [iglo.monitor](https://github.com/iglo-tech/iglo.monitor) - UptimeKuma fork with greatley refactored internals
+  - [iglo.base](https://github.com/iglo-tech/iglo.base) - PocketBase fork mixed with Convex style code-first schema approach
+  - [iglo.email](https://github.com/iglo-tech/iglo.email) - Listmonk fork with email automations and MCP support
+  - [iglo.monitor](https://github.com/iglo-tech/iglo.monitor) - Uptime Kuma fork with greatly refactored internals
   - [iglo.code](https://github.com/iglo-tech/iglo.code) - T3 Code fork with added complex workflows and fixes
 - 💬 **[Comments Tools](https://commentstools.com)** & **[YouTube Comments Downloader](https://youtubecommentsdownloader.com)**: YouTube comment analysis at scale
 - 🏔️ **[Alpine.js Pro](https://alpinejs.pro)**: devtools for Alpine.js, Livewire & friends
