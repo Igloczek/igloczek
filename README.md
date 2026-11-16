@@ -3,10 +3,10 @@
 ### Hi, I'm Bartek 👋
 
 Solopreneur, builder & architect from Bielsko-Biała, Poland 🇵🇱
-Shipping stuff to the web since **2008** (started freelancing at 16), which in JavaScript years makes me roughly 400.
+Shipping stuff to the web since 2008, started freelancing at 15, which in JavaScript years makes me roughly 400.
 
 - 🏗️ I take products from *"hear me out…"* to production: architecture, frontend, backend, CI/CD, hosting, analytics
-- 🧭 Ex-**Head of Front-end** & **Board Member** at [Snowdog](https://snow.dog), ex-**Tech Lead** at [Alokai](https://alokai.com) (formerly Vue Storefront)
+- 🧭 Ex-Head of Front-end & Board Member at [Snowdog](https://snow.dog), ex-Tech Lead at [Alokai](https://alokai.com) (formerly Vue Storefront)
 - 📖 Open source since before it was a personality trait on LinkedIn
 - 🔥 Bun maximalist, React skeptic, hot takes on [X](https://x.com/igloczek)
 - 🎓 PhD in Memology (thesis still under peer review)
@@ -27,9 +27,6 @@ Shipping stuff to the web since **2008** (started freelancing at 16), which in J
 
 **20+ talks** across Europe and the US, including **Magento Imagine 2017 in Las Vegas** (the big one, 2,000+ attendees), Meet Magento in Poland, Germany, Spain, Croatia and Romania, MageTitans Valencia, Reacticon Eindhoven, Nomadmage and a pile of local meetups.
 I also curated the frontend track of Meet Magento Poland 2018, so yes, I got the creator of Nuxt on stage.
-
-> *"He works hard, leads by example, and gets things done. […] if by any chance he doesn't know something, he isn't afraid to admit it."*
-> — someone who reported to me and still voluntarily wrote this
 
 ### 🗺️ Speedrun of my career
 
@@ -52,7 +49,7 @@ I also curated the frontend track of Meet Magento Poland 2018, so yes, I got the
 - 😬 **[Cringe-o-meter](https://cringe-o-meter.com)**: rates the cringe on your LinkedIn feed. A public service.
 - 🧩 Small useful bits: [astro-electron](https://github.com/Igloczek/astro-electron), [astro-bun-adapter](https://github.com/Igloczek/astro-bun-adapter) and [n8n-nodes-pocketbase-admin](https://github.com/Igloczek/n8n-nodes-pocketbase-admin)
 
-🔧 Off the keyboard: 3D printing, smart home and reviving old hardware. Naturally, each hobby ends up with its own repo: [klipper-bed-mesh-editor](https://github.com/Igloczek/klipper-bed-mesh-editor), a [better vacuum map card](https://github.com/Igloczek/lovelace-better-xiaomi-vacuum-map-card) for Home Assistant, and a fix for the [ASUS Xonar U1](https://github.com/Igloczek/asus-xonar-u1-windows) volume knob on Windows 11.
+🔧 Off the keyboard: 3D printing, smart home and reviving old hardware. Naturally, each hobby ends up with its own repo: [klipper-bed-mesh-editor](https://github.com/Igloczek/klipper-bed-mesh-editor), a [better vacuum map card](https://github.com/Igloczek/lovelace-better-xiaomi-vacuum-map-card) for Home Assistant, [ASUS Xonar U1](https://github.com/Igloczek/asus-xonar-u1-windows) sound card support on Windows 11.
 
 ### 🤝 Work with me
 
