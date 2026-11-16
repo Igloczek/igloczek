@@ -19,7 +19,7 @@ Shipping stuff to the web since 2008, started freelancing at 15, which in JavaSc
 |---|---|
 | 🛠️ **[Frontools](https://github.com/SnowdogApps/magento2-frontools)** + **[Blank SASS](https://github.com/SnowdogApps/magento2-theme-blank-sass)** | Created both. 1M+ downloads, the foundation of countless Magento 2 stores. Because LESS was a choice, not a destiny. |
 | 🚀 **[Astro](https://github.com/withastro/astro)** | Brought full Vue support to Astro back in the early days. You're welcome, Vue people. |
-| 🛒 **[Vue Storefront](https://github.com/vuestorefront/vue-storefront)** ⭐ 11k | Core team member, got Snowdog in as one of the first partners, later led the team building an enterprise API orchestration layer (multi-source GraphQL under 500 ms, cold cache). |
+| 🛒 **[Vue Storefront](https://github.com/vuestorefront/vue-storefront)** | Core team member, got Snowdog in as one of the first partners, later led the team building an enterprise API orchestration layer (multi-source GraphQL under 500 ms, cold cache). |
 | 🧱 **Magento** | Top 50 community contributors in 2017, helped lay the groundwork for PWA Studio with Magento & Google, Magento Open Source Task Force member. |
 | 🔁 **1,200+ PRs** | 500+ merged into other people's repos: Vue, Alpine, Astro, Magento, Strapi, Rocket.Chat, oxc, WXT and friends. |
 
